@@ -94,6 +94,9 @@ function draw() {
      text(titles[c], x2, windowHeight*0.6 + 170, 150, 150);
      x2+=300;
   }
+   
+  textSize(20);
+   text("Click on icons for more", windowWidth*0.75, windowHeight*0.9, 150,300);
   
 }
 
