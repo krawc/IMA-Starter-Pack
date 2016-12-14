@@ -96,7 +96,7 @@ function draw() {
   }
    fill(0);
   textSize(20);
-   text("Click on icons for more", windowWidth*0.75, windowHeight*0.9, 150,300);
+   text("Click on icons for more", windowWidth*0.75, windowHeight*0.9, 200,400);
   
 }
 
